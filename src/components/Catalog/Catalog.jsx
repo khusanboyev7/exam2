@@ -1,4 +1,5 @@
 import React from "react";
+import { catalogData } from "./Data";
 import {
   CatalogWrapper,
   CatalogHeader,

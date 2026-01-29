@@ -4,7 +4,7 @@ export { default as HeartIcon } from "./src/Heart.icon";
 export { default as NetworkIcon } from "./src/Network.icon";
 export { default as CartIcon } from "./src/Cart.icon";
 export { default as HeartsIcon } from "./src/Hearts";
-export { default as AssortmentIcon } from "./src/assortment";
+// export { default as AssortmentIcon } from "./src/assortment";
 export { default as CartsIcon } from "./src/Carts";
 export { default as QualityIcon } from "./src/quality";
 export { default as PriceIcon } from "./src/price";
